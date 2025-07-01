@@ -1,0 +1,381 @@
+Origen,Destino,Distancia carretera (km),Distancia 3D (km),Diferencia (km),Tiempo estimado (min)
+Arriaga,Berriozábal,126.426,126.943,0.517,108.9
+Arriaga,Bochil,208.359,209.39,1.031,168.9
+Arriaga,Chiapa de Corzo,153.55,154.028,0.478,122.6
+Arriaga,Cintalapa,82.481,82.806,0.325,87.1
+Arriaga,Comitán de Domínguez,274.795,275.921,1.127,226.9
+Arriaga,Huixtla,207.642,207.821,0.179,153.2
+Arriaga,La Trinitaria,291.497,292.631,1.134,242.6
+Arriaga,Las Margaritas,293.345,294.512,1.166,247.8
+Arriaga,Mapastepec,147.058,147.175,0.117,110.3
+Arriaga,Motozintla,237.037,237.873,0.836,178.2
+Arriaga,Ocosingo,428.78,431.436,2.656,468.2
+Arriaga,Palenque,417.226,419.858,2.632,368.7
+Arriaga,Pichucalco,291.695,293.251,1.556,254.9
+Arriaga,San Cristóbal de las Casas,188.796,189.712,0.915,146.9
+Arriaga,Tapachula,241.413,241.642,0.229,180.9
+Arriaga,Tonalá,43.45,43.462,0.013,44.3
+Arriaga,Tuxtla Gutiérrez,128.827,129.266,0.439,95.8
+Arriaga,Villaflores,102.138,102.793,0.655,94.2
+Arriaga,Yajalón,337.123,339.009,1.886,295.1
+Berriozábal,Arriaga,125.672,126.186,0.513,107.7
+Berriozábal,Bochil,117.125,117.891,0.766,119.2
+Berriozábal,Chiapa de Corzo,62.316,62.529,0.213,72.9
+Berriozábal,Cintalapa,87.987,88.237,0.25,102.8
+Berriozábal,Comitán de Domínguez,183.56,184.423,0.862,177.2
+Berriozábal,Huixtla,329.087,329.777,0.69,257.0
+Berriozábal,La Trinitaria,200.263,201.132,0.869,192.9
+Berriozábal,Las Margaritas,202.111,203.013,0.901,198.1
+Berriozábal,Mapastepec,268.503,269.131,0.628,214.1
+Berriozábal,Motozintla,358.482,359.829,1.347,282.0
+Berriozábal,Ocosingo,337.546,339.937,2.391,418.5
+Berriozábal,Palenque,325.992,328.359,2.367,318.9
+Berriozábal,Pichucalco,199.59,200.885,1.295,204.9
+Berriozábal,San Cristóbal de las Casas,97.562,98.213,0.65,97.2
+Berriozábal,Tapachula,362.858,363.598,0.74,284.7
+Berriozábal,Tonalá,164.895,165.418,0.524,148.1
+Berriozábal,Tuxtla Gutiérrez,37.593,37.767,0.174,46.1
+Berriozábal,Villaflores,85.505,85.723,0.218,115.3
+Berriozábal,Yajalón,245.889,247.51,1.621,245.4
+Bochil,Arriaga,206.998,208.028,1.031,166.9
+Bochil,Berriozábal,116.486,117.256,0.769,117.6
+Bochil,Chiapa de Corzo,90.105,90.728,0.623,89.4
+Bochil,Cintalapa,169.312,170.079,0.767,161.9
+Bochil,Comitán de Domínguez,175.695,176.805,1.111,167.9
+Bochil,Huixtla,410.412,411.619,1.208,316.2
+Bochil,La Trinitaria,192.397,193.515,1.117,183.6
+Bochil,Las Margaritas,194.245,195.395,1.15,188.8
+Bochil,Mapastepec,349.828,350.974,1.146,273.3
+Bochil,Motozintla,345.312,348.704,3.393,327.6
+Bochil,Ocosingo,329.68,332.319,2.639,409.2
+Bochil,Palenque,256.426,259.566,3.14,303.0
+Bochil,Pichucalco,128.002,129.885,1.883,119.2
+Bochil,San Cristóbal de las Casas,89.696,90.595,0.899,87.9
+Bochil,Tapachula,444.183,445.441,1.258,343.9
+Bochil,Tonalá,246.22,247.261,1.041,207.3
+Bochil,Tuxtla Gutiérrez,82.338,82.943,0.605,77.7
+Bochil,Villaflores,155.185,155.994,0.808,155.2
+Bochil,Yajalón,133.004,135.223,2.219,182.1
+Chiapa de Corzo,Arriaga,152.223,152.692,0.469,120.7
+Chiapa de Corzo,Berriozábal,61.712,61.92,0.208,71.4
+Chiapa de Corzo,Bochil,89.964,90.581,0.617,89.2
+Chiapa de Corzo,Cintalapa,114.537,114.743,0.206,115.8
+Chiapa de Corzo,Comitán de Domínguez,138.206,138.473,0.267,143.7
+Chiapa de Corzo,Huixtla,355.637,356.283,0.646,270.1
+Chiapa de Corzo,La Trinitaria,153.084,153.327,0.244,158.8
+Chiapa de Corzo,Las Margaritas,156.756,157.063,0.306,164.6
+Chiapa de Corzo,Mapastepec,295.053,295.638,0.584,227.1
+Chiapa de Corzo,Motozintla,278.474,280.818,2.344,287.6
+Chiapa de Corzo,Ocosingo,310.385,312.626,2.241,388.5
+Chiapa de Corzo,Palenque,298.831,301.049,2.218,288.9
+Chiapa de Corzo,Pichucalco,217.676,220.176,2.5,207.1
+Chiapa de Corzo,San Cristóbal de las Casas,70.401,70.902,0.501,67.2
+Chiapa de Corzo,Tapachula,389.408,390.105,0.697,297.7
+Chiapa de Corzo,Tonalá,191.445,191.925,0.48,161.1
+Chiapa de Corzo,Tuxtla Gutiérrez,27.563,27.606,0.043,31.5
+Chiapa de Corzo,Villaflores,76.174,76.377,0.203,78.0
+Chiapa de Corzo,Yajalón,218.728,220.199,1.471,215.4
+Cintalapa,Arriaga,81.72,82.039,0.32,86.2
+Cintalapa,Berriozábal,88.454,88.714,0.26,103.6
+Cintalapa,Bochil,170.387,171.162,0.775,163.6
+Cintalapa,Chiapa de Corzo,115.578,115.8,0.222,117.3
+Cintalapa,Comitán de Domínguez,236.822,237.693,0.871,221.6
+Cintalapa,Huixtla,285.134,285.63,0.496,235.6
+Cintalapa,La Trinitaria,253.525,254.403,0.878,237.3
+Cintalapa,Las Margaritas,255.373,256.283,0.91,242.5
+Cintalapa,Mapastepec,224.55,224.985,0.435,192.7
+Cintalapa,Motozintla,314.529,315.683,1.153,260.6
+Cintalapa,Ocosingo,390.808,393.207,2.399,462.9
+Cintalapa,Palenque,379.254,381.63,2.376,363.4
+Cintalapa,Pichucalco,253.724,255.023,1.299,249.6
+Cintalapa,San Cristóbal de las Casas,150.824,151.483,0.659,141.6
+Cintalapa,Tapachula,318.905,319.452,0.547,263.3
+Cintalapa,Tonalá,120.942,121.272,0.33,126.6
+Cintalapa,Tuxtla Gutiérrez,90.855,91.037,0.183,90.5
+Cintalapa,Villaflores,115.44,115.844,0.404,139.5
+Cintalapa,Yajalón,299.151,300.78,1.629,289.9
+Comitán de Domínguez,Arriaga,273.466,274.6,1.134,224.8
+Comitán de Domínguez,Berriozábal,182.955,183.828,0.873,175.6
+Comitán de Domínguez,Bochil,175.77,176.884,1.114,168.0
+Comitán de Domínguez,Chiapa de Corzo,138.243,138.509,0.267,143.7
+Comitán de Domínguez,Cintalapa,235.781,236.651,0.87,219.9
+Comitán de Domínguez,Huixtla,209.245,212.202,2.956,203.3
+Comitán de Domínguez,La Trinitaria,17.554,17.565,0.011,18.0
+Comitán de Domínguez,Las Margaritas,19.811,19.84,0.029,23.2
+Comitán de Domínguez,Mapastepec,269.461,272.482,3.021,249.0
+Comitán de Domínguez,Motozintla,170.468,172.754,2.286,162.0
+Comitán de Domínguez,Ocosingo,308.193,310.019,1.826,387.3
+Comitán de Domínguez,Palenque,296.639,298.442,1.803,287.8
+Comitán de Domínguez,Pichucalco,303.482,306.479,2.997,285.9
+Comitán de Domínguez,San Cristóbal de las Casas,88.939,89.156,0.217,84.9
+Comitán de Domínguez,Tapachula,237.006,240.005,2.999,226.5
+Comitán de Domínguez,Tonalá,312.688,313.833,1.144,265.2
+Comitán de Domínguez,Tuxtla Gutiérrez,148.806,149.514,0.708,135.6
+Comitán de Domínguez,Villaflores,221.654,222.565,0.911,213.2
+Comitán de Domínguez,Yajalón,216.536,217.592,1.056,214.2
+Huixtla,Arriaga,207.688,207.851,0.163,154.2
+Huixtla,Berriozábal,329.125,329.797,0.672,258.9
+Huixtla,Bochil,411.058,412.244,1.186,318.9
+Huixtla,Chiapa de Corzo,356.249,356.882,0.633,272.6
+Huixtla,Cintalapa,285.18,285.66,0.48,237.1
+Huixtla,Comitán de Domínguez,209.688,212.654,2.966,203.7
+Huixtla,La Trinitaria,192.739,195.687,2.949,187.4
+Huixtla,Las Margaritas,228.034,231.021,2.987,224.2
+Huixtla,Mapastepec,70.077,70.149,0.072,61.9
+Huixtla,Motozintla,38.789,39.461,0.672,41.4
+Huixtla,Ocosingo,542.241,547.808,5.567,565.7
+Huixtla,Palenque,505.505,510.27,4.765,489.4
+Huixtla,Pichucalco,494.395,496.105,1.711,404.9
+Huixtla,San Cristóbal de las Casas,297.805,300.984,3.179,286.6
+Huixtla,Tapachula,42.149,42.213,0.064,43.3
+Huixtla,Tonalá,195.902,196.058,0.156,159.5
+Huixtla,Tuxtla Gutiérrez,331.526,332.12,0.594,245.8
+Huixtla,Villaflores,304.837,305.647,0.81,244.2
+Huixtla,Yajalón,425.402,429.421,4.019,415.9
+La Trinitaria,Arriaga,290.248,291.397,1.148,240.6
+La Trinitaria,Berriozábal,199.737,200.624,0.887,191.3
+La Trinitaria,Bochil,192.552,193.68,1.128,183.8
+La Trinitaria,Chiapa de Corzo,153.18,153.431,0.251,158.8
+La Trinitaria,Cintalapa,252.563,253.447,0.885,235.7
+La Trinitaria,Comitán de Domínguez,17.604,17.623,0.019,17.8
+La Trinitaria,Huixtla,192.772,195.718,2.946,187.8
+La Trinitaria,Las Margaritas,35.95,35.989,0.039,38.3
+La Trinitaria,Mapastepec,252.987,255.998,3.011,233.5
+La Trinitaria,Motozintla,153.994,156.27,2.276,146.5
+La Trinitaria,Ocosingo,377.814,379.812,1.998,381.3
+La Trinitaria,Palenque,313.421,315.238,1.817,303.5
+La Trinitaria,Pichucalco,320.264,323.275,3.011,301.7
+La Trinitaria,San Cristóbal de las Casas,105.721,105.952,0.232,100.7
+La Trinitaria,Tapachula,220.532,223.521,2.989,211.0
+La Trinitaria,Tonalá,329.47,330.629,1.159,281.0
+La Trinitaria,Tuxtla Gutiérrez,165.588,166.311,0.722,151.4
+La Trinitaria,Villaflores,238.436,239.362,0.926,229.0
+La Trinitaria,Yajalón,233.318,234.389,1.071,230.0
+Las Margaritas,Arriaga,292.626,293.796,1.169,246.2
+Las Margaritas,Berriozábal,202.115,203.023,0.908,197.0
+Las Margaritas,Bochil,194.93,196.079,1.149,189.4
+Las Margaritas,Chiapa de Corzo,157.403,157.705,0.302,165.1
+Las Margaritas,Cintalapa,254.941,255.846,0.906,241.3
+Las Margaritas,Comitán de Domínguez,20.241,20.279,0.038,24.9
+Las Margaritas,Huixtla,227.788,230.773,2.985,224.5
+Las Margaritas,La Trinitaria,36.096,36.136,0.04,39.2
+Las Margaritas,Mapastepec,288.003,291.053,3.049,270.2
+Las Margaritas,Motozintla,189.01,191.325,2.315,183.2
+Las Margaritas,Ocosingo,239.048,240.733,1.684,385.3
+Las Margaritas,Palenque,240.428,242.17,1.741,286.6
+Las Margaritas,Pichucalco,322.642,325.674,3.032,307.3
+Las Margaritas,San Cristóbal de las Casas,108.099,108.351,0.253,106.4
+Las Margaritas,Tapachula,255.548,258.576,3.028,247.7
+Las Margaritas,Tonalá,331.848,333.028,1.18,286.7
+Las Margaritas,Tuxtla Gutiérrez,167.966,168.71,0.743,157.0
+Las Margaritas,Villaflores,240.814,241.761,0.947,234.6
+Las Margaritas,Yajalón,160.325,161.32,0.995,213.1
+Mapastepec,Arriaga,146.091,146.187,0.096,109.5
+Mapastepec,Berriozábal,267.527,268.132,0.605,214.2
+Mapastepec,Bochil,349.461,350.579,1.119,274.2
+Mapastepec,Chiapa de Corzo,294.651,295.217,0.566,227.9
+Mapastepec,Cintalapa,223.582,223.995,0.413,192.4
+Mapastepec,Comitán de Domínguez,269.296,272.313,3.018,248.2
+Mapastepec,Huixtla,69.001,69.067,0.066,60.9
+Mapastepec,La Trinitaria,252.346,255.346,3.0,231.9
+Mapastepec,Las Margaritas,287.642,290.68,3.038,268.6
+Mapastepec,Motozintla,98.397,99.12,0.723,85.9
+Mapastepec,Ocosingo,569.881,572.625,2.743,573.5
+Mapastepec,Palenque,558.327,561.048,2.72,473.9
+Mapastepec,Pichucalco,432.797,434.44,1.643,360.2
+Mapastepec,San Cristóbal de las Casas,329.898,330.901,1.003,252.2
+Mapastepec,Tapachula,102.773,102.889,0.116,88.6
+Mapastepec,Tonalá,134.305,134.393,0.088,114.8
+Mapastepec,Tuxtla Gutiérrez,269.928,270.455,0.527,201.1
+Mapastepec,Villaflores,243.239,243.982,0.743,199.4
+Mapastepec,Yajalón,478.225,480.198,1.974,400.4
+Motozintla,Arriaga,236.604,237.429,0.825,179.3
+Motozintla,Berriozábal,358.041,359.375,1.334,284.0
+Motozintla,Bochil,345.847,349.251,3.404,328.3
+Motozintla,Chiapa de Corzo,278.437,280.781,2.344,287.5
+Motozintla,Cintalapa,314.096,315.238,1.142,262.2
+Motozintla,Comitán de Domínguez,170.899,173.194,2.295,162.3
+Motozintla,Huixtla,38.778,39.448,0.67,41.3
+Motozintla,La Trinitaria,153.95,156.226,2.277,146.1
+Motozintla,Las Margaritas,189.244,191.56,2.315,182.8
+Motozintla,Mapastepec,98.993,99.727,0.734,87.0
+Motozintla,Ocosingo,503.452,508.347,4.895,524.3
+Motozintla,Palenque,466.716,470.809,4.093,448.0
+Motozintla,Pichucalco,523.311,525.683,2.373,430.0
+Motozintla,San Cristóbal de las Casas,259.015,261.523,2.508,245.2
+Motozintla,Tapachula,66.538,67.251,0.713,64.5
+Motozintla,Tonalá,224.818,225.636,0.818,184.6
+Motozintla,Tuxtla Gutiérrez,360.442,361.698,1.256,270.9
+Motozintla,Villaflores,333.753,335.225,1.472,269.2
+Motozintla,Yajalón,386.613,389.96,3.347,374.5
+Ocosingo,Arriaga,427.451,430.112,2.661,466.7
+Ocosingo,Berriozábal,336.94,339.339,2.399,417.4
+Ocosingo,Bochil,329.755,332.395,2.64,409.9
+Ocosingo,Chiapa de Corzo,310.558,312.811,2.253,389.3
+Ocosingo,Cintalapa,389.765,392.163,2.397,461.8
+Ocosingo,Comitán de Domínguez,308.274,310.098,1.824,388.0
+Ocosingo,Huixtla,542.267,547.832,5.565,565.8
+Ocosingo,La Trinitaria,378.253,380.252,1.999,381.9
+Ocosingo,Las Margaritas,238.88,240.564,1.684,385.0
+Ocosingo,Mapastepec,570.281,573.057,2.776,573.2
+Ocosingo,Motozintla,503.489,508.384,4.895,524.4
+Ocosingo,Palenque,129.813,130.064,0.251,177.5
+Ocosingo,Pichucalco,341.558,341.885,0.327,348.7
+Ocosingo,San Cristóbal de las Casas,242.923,244.667,1.744,326.8
+Ocosingo,Tapachula,570.027,575.635,5.608,589.0
+Ocosingo,Tonalá,466.673,469.344,2.671,507.1
+Ocosingo,Tuxtla Gutiérrez,302.791,305.026,2.235,377.5
+Ocosingo,Villaflores,375.639,378.077,2.438,455.1
+Ocosingo,Yajalón,228.476,229.921,1.445,287.3
+Palenque,Arriaga,415.831,418.469,2.638,366.6
+Palenque,Berriozábal,325.32,327.696,2.377,317.3
+Palenque,Bochil,256.454,259.593,3.139,303.2
+Palenque,Chiapa de Corzo,298.938,301.169,2.231,289.1
+Palenque,Cintalapa,378.145,380.52,2.375,361.7
+Palenque,Comitán de Domínguez,296.654,298.455,1.801,287.9
+Palenque,Huixtla,505.049,509.802,4.753,489.0
+Palenque,La Trinitaria,313.357,315.165,1.808,303.6
+Palenque,Las Margaritas,240.243,241.982,1.739,286.1
+Palenque,Mapastepec,558.661,561.414,2.753,473.0
+Palenque,Motozintla,466.271,470.354,4.083,447.6
+Palenque,Ocosingo,129.813,130.064,0.251,177.4
+Palenque,Pichucalco,236.12,236.256,0.136,219.7
+Palenque,San Cristóbal de las Casas,231.303,233.024,1.721,226.7
+Palenque,Tapachula,532.809,537.605,4.796,512.2
+Palenque,Tonalá,455.053,457.702,2.649,407.0
+Palenque,Tuxtla Gutiérrez,291.171,293.383,2.212,277.4
+Palenque,Villaflores,364.019,366.434,2.416,354.9
+Palenque,Yajalón,123.037,124.291,1.254,158.3
+Pichucalco,Arriaga,291.079,292.634,1.555,254.7
+Pichucalco,Berriozábal,199.823,201.121,1.298,205.4
+Pichucalco,Bochil,128.345,130.228,1.883,120.4
+Pichucalco,Chiapa de Corzo,218.16,220.666,2.506,208.7
+Pichucalco,Cintalapa,253.394,254.685,1.291,249.7
+Pichucalco,Comitán de Domínguez,303.75,306.743,2.993,287.2
+Pichucalco,Huixtla,494.493,496.225,1.732,404.0
+Pichucalco,La Trinitaria,320.452,323.452,3.0,302.9
+Pichucalco,Las Margaritas,322.3,325.333,3.033,308.1
+Pichucalco,Mapastepec,433.91,435.58,1.67,361.1
+Pichucalco,Motozintla,523.889,526.278,2.389,429.0
+Pichucalco,Ocosingo,335.884,336.215,0.331,345.8
+Pichucalco,Palenque,230.446,230.586,0.14,217.0
+Pichucalco,San Cristóbal de las Casas,217.751,220.533,2.782,207.2
+Pichucalco,Tapachula,528.265,530.047,1.782,431.7
+Pichucalco,Tonalá,330.301,331.867,1.565,295.1
+Pichucalco,Tuxtla Gutiérrez,210.393,212.88,2.487,196.9
+Pichucalco,Villaflores,250.912,252.172,1.26,262.3
+Pichucalco,Yajalón,153.523,155.359,1.836,198.6
+San Cristóbal de las Casas,Arriaga,187.852,188.771,0.918,145.0
+San Cristóbal de las Casas,Berriozábal,97.341,97.998,0.657,95.7
+San Cristóbal de las Casas,Bochil,90.156,91.054,0.898,88.2
+San Cristóbal de las Casas,Chiapa de Corzo,70.959,71.47,0.511,67.6
+San Cristóbal de las Casas,Cintalapa,150.167,150.821,0.655,140.1
+San Cristóbal de las Casas,Comitán de Domínguez,89.338,89.551,0.213,85.7
+San Cristóbal de las Casas,Huixtla,297.733,300.898,3.165,286.7
+San Cristóbal de las Casas,La Trinitaria,106.041,106.261,0.22,101.4
+San Cristóbal de las Casas,Las Margaritas,107.889,108.142,0.253,106.6
+San Cristóbal de las Casas,Mapastepec,330.683,331.716,1.033,251.4
+San Cristóbal de las Casas,Motozintla,258.955,261.45,2.495,245.4
+San Cristóbal de las Casas,Ocosingo,243.324,245.065,1.742,327.0
+San Cristóbal de las Casas,Palenque,231.77,233.488,1.718,227.5
+San Cristóbal de las Casas,Pichucalco,185.824,188.431,2.607,206.0
+San Cristóbal de las Casas,Tapachula,325.493,328.701,3.208,310.0
+San Cristóbal de las Casas,Tonalá,227.074,228.003,0.929,185.4
+San Cristóbal de las Casas,Tuxtla Gutiérrez,63.192,63.685,0.492,55.8
+San Cristóbal de las Casas,Villaflores,136.04,136.736,0.696,133.4
+San Cristóbal de las Casas,Yajalón,124.809,126.172,1.363,151.2
+Tapachula,Arriaga,239.932,240.147,0.215,180.8
+Tapachula,Berriozábal,361.369,362.093,0.724,285.5
+Tapachula,Bochil,443.302,444.54,1.238,345.5
+Tapachula,Chiapa de Corzo,388.493,389.178,0.685,299.2
+Tapachula,Cintalapa,317.423,317.956,0.532,263.7
+Tapachula,Comitán de Domínguez,235.569,238.571,3.002,225.1
+Tapachula,Huixtla,40.759,40.819,0.06,41.9
+Tapachula,La Trinitaria,218.62,221.604,2.984,208.9
+Tapachula,Las Margaritas,253.915,256.938,3.023,245.6
+Tapachula,Mapastepec,102.321,102.445,0.124,88.5
+Tapachula,Motozintla,64.671,65.378,0.707,62.8
+Tapachula,Ocosingo,568.123,573.725,5.603,587.2
+Tapachula,Palenque,531.386,536.187,4.801,510.9
+Tapachula,Pichucalco,526.638,528.401,1.763,431.5
+Tapachula,San Cristóbal de las Casas,323.686,326.901,3.215,308.0
+Tapachula,Tonalá,228.146,228.354,0.208,186.1
+Tapachula,Tuxtla Gutiérrez,363.769,364.416,0.646,272.4
+Tapachula,Villaflores,337.081,337.943,0.862,270.7
+Tapachula,Yajalón,451.283,455.338,4.054,437.3
+Tonalá,Arriaga,44.347,44.36,0.013,45.0
+Tonalá,Berriozábal,165.784,166.306,0.521,149.8
+Tonalá,Bochil,247.717,248.753,1.035,209.8
+Tonalá,Chiapa de Corzo,192.908,193.391,0.483,163.5
+Tonalá,Cintalapa,121.839,122.169,0.33,128.0
+Tonalá,Comitán de Domínguez,314.153,315.284,1.132,267.8
+Tonalá,Huixtla,194.958,195.129,0.171,157.0
+Tonalá,La Trinitaria,330.856,331.994,1.138,283.5
+Tonalá,Las Margaritas,332.704,333.875,1.171,288.6
+Tonalá,Mapastepec,134.375,134.483,0.109,114.1
+Tonalá,Motozintla,224.354,225.181,0.828,182.0
+Tonalá,Ocosingo,468.138,470.799,2.66,509.1
+Tonalá,Palenque,456.584,459.221,2.637,409.5
+Tonalá,Pichucalco,331.054,332.614,1.56,295.8
+Tonalá,San Cristóbal de las Casas,228.155,229.075,0.92,187.8
+Tonalá,Tapachula,228.729,228.95,0.221,184.7
+Tonalá,Tuxtla Gutiérrez,168.185,168.629,0.444,136.7
+Tonalá,Villaflores,141.496,142.156,0.659,135.0
+Tonalá,Yajalón,376.481,378.372,1.89,336.0
+Tuxtla Gutiérrez,Arriaga,126.854,127.269,0.415,95.1
+Tuxtla Gutiérrez,Berriozábal,36.343,36.496,0.153,45.9
+Tuxtla Gutiérrez,Bochil,80.984,81.577,0.594,78.4
+Tuxtla Gutiérrez,Chiapa de Corzo,26.174,26.215,0.041,32.1
+Tuxtla Gutiérrez,Cintalapa,89.169,89.32,0.151,90.2
+Tuxtla Gutiérrez,Comitán de Domínguez,147.419,148.109,0.69,136.3
+Tuxtla Gutiérrez,Huixtla,330.268,330.86,0.592,244.5
+Tuxtla Gutiérrez,La Trinitaria,164.122,164.818,0.697,152.1
+Tuxtla Gutiérrez,Las Margaritas,165.97,166.699,0.729,157.2
+Tuxtla Gutiérrez,Mapastepec,269.685,270.215,0.53,201.6
+Tuxtla Gutiérrez,Motozintla,359.664,360.912,1.249,269.5
+Tuxtla Gutiérrez,Ocosingo,301.404,303.623,2.218,377.7
+Tuxtla Gutiérrez,Palenque,289.851,292.045,2.195,278.1
+Tuxtla Gutiérrez,Pichucalco,208.696,211.172,2.477,196.3
+Tuxtla Gutiérrez,San Cristóbal de las Casas,61.421,61.899,0.478,56.4
+Tuxtla Gutiérrez,Tapachula,364.039,364.682,0.642,272.2
+Tuxtla Gutiérrez,Tonalá,166.076,166.502,0.425,135.5
+Tuxtla Gutiérrez,Villaflores,86.049,86.333,0.285,89.1
+Tuxtla Gutiérrez,Yajalón,209.748,211.196,1.448,204.6
+Villaflores,Arriaga,101.376,102.025,0.649,93.4
+Villaflores,Berriozábal,83.701,83.947,0.246,115.8
+Villaflores,Bochil,154.957,155.758,0.801,154.6
+Villaflores,Chiapa de Corzo,76.172,76.375,0.203,77.9
+Villaflores,Cintalapa,115.42,115.824,0.404,139.3
+Villaflores,Comitán de Domínguez,221.392,222.29,0.898,212.6
+Villaflores,Huixtla,304.791,305.616,0.826,242.7
+Villaflores,La Trinitaria,238.095,238.999,0.904,228.3
+Villaflores,Las Margaritas,239.943,240.88,0.937,233.5
+Villaflores,Mapastepec,244.207,244.971,0.764,199.8
+Villaflores,Motozintla,334.186,335.669,1.483,267.7
+Villaflores,Ocosingo,375.377,377.804,2.426,453.9
+Villaflores,Palenque,363.824,366.226,2.402,354.3
+Villaflores,Pichucalco,248.971,250.255,1.285,261.8
+Villaflores,San Cristóbal de las Casas,135.394,136.08,0.686,132.6
+Villaflores,Tapachula,338.562,339.438,0.876,270.4
+Villaflores,Tonalá,140.599,141.258,0.659,133.8
+Villaflores,Tuxtla Gutiérrez,85.538,85.823,0.285,88.3
+Villaflores,Yajalón,283.721,285.377,1.656,280.8
+Yajalón,Arriaga,335.684,337.579,1.896,293.0
+Yajalón,Berriozábal,245.173,246.807,1.634,243.7
+Yajalón,Bochil,132.989,135.21,2.221,182.1
+Yajalón,Chiapa de Corzo,218.791,220.279,1.488,215.6
+Yajalón,Cintalapa,297.998,299.63,1.632,288.1
+Yajalón,Comitán de Domínguez,216.507,217.566,1.058,214.3
+Yajalón,Huixtla,424.902,428.912,4.01,415.4
+Yajalón,La Trinitaria,233.21,234.275,1.065,230.0
+Yajalón,Las Margaritas,160.096,161.093,0.997,212.5
+Yajalón,Mapastepec,478.514,480.525,2.01,399.4
+Yajalón,Motozintla,386.124,389.464,3.34,374.0
+Yajalón,Ocosingo,228.454,229.9,1.447,287.1
+Yajalón,Palenque,123.015,124.271,1.256,158.3
+Yajalón,Pichucalco,153.041,154.875,1.834,196.7
+Yajalón,San Cristóbal de las Casas,125.105,126.472,1.366,151.9
+Yajalón,Tapachula,452.662,456.715,4.053,438.6
+Yajalón,Tonalá,374.906,376.812,1.906,333.4
+Yajalón,Tuxtla Gutiérrez,211.024,212.493,1.469,203.8
+Yajalón,Villaflores,283.872,285.544,1.673,281.4
