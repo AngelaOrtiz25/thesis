@@ -1,0 +1,69 @@
+Origen,Destino,Distancia carretera (km),Distancia 3D (km),Diferencia (km),Tiempo estimado (min)
+Tuxtla Gutiérrez,San Cristóbal de las Casas,61.421,61.899,0.478,56.4
+Tuxtla Gutiérrez,Tapachula,364.039,364.682,0.642,272.2
+Tuxtla Gutiérrez,Comitán de Domínguez,147.419,148.109,0.69,136.3
+Tuxtla Gutiérrez,Palenque,289.851,292.045,2.195,278.1
+Tuxtla Gutiérrez,Tonalá,166.076,166.502,0.425,135.5
+Tuxtla Gutiérrez,Ocosingo,301.404,303.623,2.218,377.7
+Tuxtla Gutiérrez,Pichucalco,208.696,211.172,2.477,196.3
+Tuxtla Gutiérrez,Villaflores,86.049,86.333,0.285,89.1
+Tuxtla Gutiérrez,Cintalapa,89.169,89.32,0.151,90.2
+Tuxtla Gutiérrez,Huixtla,330.268,330.86,0.592,244.5
+Tuxtla Gutiérrez,Chiapa de Corzo,26.174,26.215,0.041,32.1
+Tuxtla Gutiérrez,Motozintla,359.664,360.912,1.249,269.5
+Tuxtla Gutiérrez,Las Margaritas,165.97,166.699,0.729,157.2
+Tuxtla Gutiérrez,Arriaga,126.854,127.269,0.415,95.1
+Tuxtla Gutiérrez,Bochil,80.984,81.577,0.594,78.4
+Tuxtla Gutiérrez,Mapastepec,269.685,270.215,0.53,201.6
+Tuxtla Gutiérrez,Yajalón,209.748,211.196,1.448,204.6
+Tuxtla Gutiérrez,Berriozábal,36.343,36.496,0.153,45.9
+Tuxtla Gutiérrez,La Trinitaria,164.122,164.818,0.697,152.1
+San Cristóbal de las Casas,Tapachula,325.493,328.701,3.208,310.0
+San Cristóbal de las Casas,Comitán de Domínguez,89.338,89.551,0.213,85.7
+San Cristóbal de las Casas,Palenque,231.77,233.488,1.718,227.5
+San Cristóbal de las Casas,Tonalá,227.074,228.003,0.929,185.4
+San Cristóbal de las Casas,Ocosingo,243.324,245.065,1.742,327.0
+San Cristóbal de las Casas,Pichucalco,185.824,188.431,2.607,206.0
+San Cristóbal de las Casas,Villaflores,136.04,136.736,0.696,133.4
+San Cristóbal de las Casas,Cintalapa,150.167,150.821,0.655,140.1
+San Cristóbal de las Casas,Huixtla,297.733,300.898,3.165,286.7
+San Cristóbal de las Casas,Chiapa de Corzo,70.959,71.47,0.511,67.6
+San Cristóbal de las Casas,Motozintla,258.955,261.45,2.495,245.4
+San Cristóbal de las Casas,Las Margaritas,107.889,108.142,0.253,106.6
+San Cristóbal de las Casas,Arriaga,187.852,188.771,0.918,145.0
+San Cristóbal de las Casas,Bochil,90.156,91.054,0.898,88.2
+San Cristóbal de las Casas,Mapastepec,330.683,331.716,1.033,251.4
+San Cristóbal de las Casas,Yajalón,124.809,126.172,1.363,151.2
+San Cristóbal de las Casas,Berriozábal,97.341,97.998,0.657,95.7
+San Cristóbal de las Casas,La Trinitaria,106.041,106.261,0.22,101.4
+Tapachula,Comitán de Domínguez,235.569,238.571,3.002,225.1
+Tapachula,Palenque,531.386,536.187,4.801,510.9
+Tapachula,Tonalá,228.146,228.354,0.208,186.1
+Tapachula,Ocosingo,568.123,573.725,5.603,587.2
+Tapachula,Pichucalco,526.638,528.401,1.763,431.5
+Tapachula,Villaflores,337.081,337.943,0.862,270.7
+Tapachula,Cintalapa,317.423,317.956,0.532,263.7
+Tapachula,Huixtla,40.759,40.819,0.06,41.9
+Tapachula,Chiapa de Corzo,388.493,389.178,0.685,299.2
+Tapachula,Motozintla,64.671,65.378,0.707,62.8
+Tapachula,Las Margaritas,253.915,256.938,3.023,245.6
+Tapachula,Arriaga,239.932,240.147,0.215,180.8
+Tapachula,Bochil,443.302,444.54,1.238,345.5
+Tapachula,Mapastepec,102.321,102.445,0.124,88.5
+Tapachula,Yajalón,451.283,455.338,4.054,437.3
+Tapachula,Berriozábal,361.369,362.093,0.724,285.5
+Tapachula,La Trinitaria,218.62,221.604,2.984,208.9
+Comitán de Domínguez,Palenque,296.639,298.442,1.803,287.8
+Comitán de Domínguez,Tonalá,312.688,313.833,1.144,265.2
+Comitán de Domínguez,Ocosingo,308.193,310.019,1.826,387.3
+Comitán de Domínguez,Pichucalco,303.482,306.479,2.997,285.9
+Comitán de Domínguez,Villaflores,221.654,222.565,0.911,213.2
+Comitán de Domínguez,Cintalapa,235.781,236.651,0.87,219.9
+Comitán de Domínguez,Huixtla,209.245,212.202,2.956,203.3
+Comitán de Domínguez,Chiapa de Corzo,138.243,138.509,0.267,143.7
+Comitán de Domínguez,Motozintla,170.468,172.754,2.286,162.0
+Comitán de Domínguez,Las Margaritas,19.811,19.84,0.029,23.2
+Comitán de Domínguez,Arriaga,273.466,274.6,1.134,224.8
+Comitán de Domínguez,Bochil,175.77,176.884,1.114,168.0
+Comitán de Domínguez,Mapastepec,269.461,272.482,3.021,249.0
+Comitán de Domínguez,Yajalón,216.536,217.592,1.056,214.2
